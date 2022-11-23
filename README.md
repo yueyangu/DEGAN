@@ -1,2 +1,2 @@
-# GANKDE
-GANKDE: An Unsupervised GAN-based Anomaly Detection Approach for Univariate Time Series
+# DEGAN
+This is an unsupervised method for time series anomaly detection.
